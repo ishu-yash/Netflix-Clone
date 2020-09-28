@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+}
+
+.row {
+  margin-left: 20px;
+}
+
+.app {
+  background-color: #111;
+}
